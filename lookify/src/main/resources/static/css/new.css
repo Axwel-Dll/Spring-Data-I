@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	border-color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+a{
+	position: absolute;
+  	top: 0;
+  	right: 0;
+  	margin-right: 5rem;
+  	color: rgb(0,123,255);
+}
+h2 {
+	display: flex;
+	font-size: 2rem;
+	margin-bottom: 15px;
+}
+
+#title{
+	width: 22rem;
+}
+#btn {
+	margin-left: 32rem;
+	font-size: 1.3rem;
+	font-weight: bold;
+	box-shadow: 2px 2px 2px black;
+	width: 8rem;
+}
+
+form label {
+	flex: 0 0 250px;
+	margin-right: 1rem;
+}
+
+#container {
+	width: 90rem;
+	height: 47rem;
+	margin: 3rem auto;
+}
+
+input {
+	width: 16rem;
+	font-size: 1.3rem;
+}
+
